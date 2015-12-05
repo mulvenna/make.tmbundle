@@ -1,0 +1,5 @@
+We improved the grammar so the GNU Make functions addsuffix, file, and guile
+would be recognized.
+
+implementation file: Syntaxes/Makefile.plist
+implementation: regular expression for meta.scope.function-call.makefile
